@@ -126,7 +126,7 @@ The newer codecs suggested achieve better compression but much higher encoding a
 
 This script uses the Monte Carlo rejection sampling algorithm to generate points according to their probability distribution function (PDF). The three spherical coordinates have separable PDFs, so the three sets can be found independently and then combined.
 
-<div align="center"><img src="https://github.com/sidstuff/test/assets/160637304/7566fdb6-52c3-46ea-bf16-18b30c78cb27" width="75%"></div>
+<div align="center"><img src="https://github.com/sidstuff/orbital/assets/160637304/4e192a42-9f0a-4fd2-b420-b77fbd8b56eb" width="75%"></div>
 
 The algorithm can be inferred from the above image. First we pick a domain for the variable $x,$ and an upper bound on $p(x);$ in the image these are $(-3,3)$ and $0.4167$, respectively. Pairs $x$ and $y$ are randomly generated within the aforemetioned domain and upper bound, respectively. if $y < p(x),\ x$ is kept, otherwise it is discarded. This continues until the desired number of values for $x$ is obtained.
 
