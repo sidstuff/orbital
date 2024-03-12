@@ -150,7 +150,7 @@ $$(2\ell-1)!!=(2l-1)\cdot(2l-3)\ldots5\cdot3\cdot1=\frac{(2\ell)!}{\ell!\ 2^\ell
 The maximum here is clearly $((2\ell-1)!!)^2$, as demonstrated [here](https://www.desmos.com/calculator/hvtjt1hvkc) – the ratio of the polar probability $F$ to the maximum $G$, remains at or below $1$.
 
 For $m=0$, the Bernstein-type inequality[^2][^3]
-$$(\sin\theta)(P_\ell^0(\cos\theta))^2<\frac{2}{\pi(n+\frac{1}{2})}$$
+$$(\sin\theta)(P_\ell^0(\cos\theta))^2<\frac{2}{\pi(\ell+\frac{1}{2})}$$
 is similarly demonstrated [here](https://www.desmos.com/calculator/kccvaxhqr4).
 
 [^2]: Antonov, V. A., & Holsevnikov, K. V. (1981). An estimate of the remainder in the expansion of the generating function for the Legendre polynomials (generalization and improvement of Bernstein's inequality). Vestnik Leningrad. Univ. Mat. 13, 163–166.
