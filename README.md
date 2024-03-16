@@ -30,7 +30,7 @@ On Windows
 ```cmd
 orbital.py
 ```
-On Linux
+On Linux/macOS
 ```sh
 chmod +x orbital.py   # Only the first time
 ./orbital.py
