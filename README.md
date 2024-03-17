@@ -92,7 +92,7 @@ refers to a $\mathrm{3d_{z^2}}$ orbital with 4000 dots, a black background, and 
 
 ## Advanced Options ⚙️
 
-The options given so far are plenty to play around with and generate beautiful animations in your desired format. To change the defaults, or for further options, create an `override.conf` file in the TOML format containing any of the following keys (in any order) with their desired values.
+The options given so far are plenty to play around with and generate beautiful animations in your desired format. To change the defaults, or for further options, go to the directory containing `orbital.py`, and create an `override.conf` file in the TOML format containing any of the following keys (in any order) with their desired values.
 ```toml
 n = 1
 l = 0
