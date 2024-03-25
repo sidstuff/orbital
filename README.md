@@ -3,7 +3,7 @@
 ![Python 3.11](https://img.shields.io/badge/Python-3.11-0070CC?logo=python&logoColor=white)
 ![TOML](https://img.shields.io/badge/TOML-9C4221?logo=toml&logoColor=white)
 ![LSmall](https://img.shields.io/badge/kB-small-808080)
-![Filesize](https://img.badgesize.io/sidstuff/orbital/master/orbital.py.svg)
+![Filesize](https://img.shields.io/badge/size-5.99%20KB-brightgreen)
 ![CLI](https://img.shields.io/badge/CLI-808080?logo=powershell&logoColor=white)
 ![Cross Platform](https://img.shields.io/badge/cross–platform-0B4)
 
